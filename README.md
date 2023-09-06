@@ -8,5 +8,4 @@ Then you can click on the Current Location button on the top left corner of the 
 ## Application Preview
 
 
-https://github.com/Kshitiz-b/Clima-App/assets/95609931/a14d1e3f-69b1-41f4-be8b-a0938b4ab783
-
+https://github.com/Kshitiz-b/Clima/assets/95609931/4c5003f8-604d-49ae-8a64-e29d43b376ac
